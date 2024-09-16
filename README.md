@@ -17,8 +17,7 @@ This project displays the "Bad Apple" animation in the terminal using preprocess
 
 ## Usage
 
-1. Place your `.npz` files containing the frames in the `bad_apple_frames(60fps)` directory.
-2. Run the script:
+1. Run the script:
     ```sh
     python format_terminal.py
     ```
